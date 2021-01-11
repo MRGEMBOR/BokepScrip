@@ -1,5 +1,5 @@
 #!/system/xbin/bash
-#Jangan di recode dong ster 
+#MR GEMBOR author scrip 
 #usaha kalo gk bisa nanya 
 
 
@@ -54,8 +54,8 @@ echo "\033[1;31m]
       {_-|-_} 
       {_-|-_} 
 +=====%%@ @%%=============================+
-+ coded by : InYourG00D                   +
-+ Team : LNX#CREW S.T.C BUFT              +
++ coded by : MR  GEMBOR                   +
++ Team : PURBALINGGA DARKNET              +
 +=========================================+
   ^...^                      ^...^
  <_* *_>Tools Install Bokep <_* *_> 
